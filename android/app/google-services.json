@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583393059887",
+    "project_id": "ragadio-student-app",
+    "storage_bucket": "ragadio-student-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583393059887:android:a0ec392be46f777e6852da",
+        "android_client_info": {
+          "package_name": "com.example.ragadio_navigation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBksSMDW4SCvpZIeAYQ3w-zY8QmcbgUcV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
