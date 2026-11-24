@@ -49,7 +49,6 @@ class DefaultFirebaseOptions {
     storageBucket: 'ragadio-student-app.firebasestorage.app',
     measurementId: 'G-GXCBBY9NZJ',
   );
-
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBksSMDW4SCvpZIeAYQ3w-zY8QmcbgUcV0',
     appId: '1:583393059887:android:a0ec392be46f777e6852da',
